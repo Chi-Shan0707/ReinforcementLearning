@@ -1,1 +1,9 @@
-https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning?tab=readme-ov-file
+# Reference
+
+[强化学习的数学原理](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning?tab=readme-ov-file)
+<br>
+
+[磨菇书](https://github.com/datawhalechina/easy-rl)
+
+> **Note**:<br>
+> Policy Gradient, PPO
