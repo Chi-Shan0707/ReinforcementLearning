@@ -5,5 +5,7 @@
 
 [磨菇书](https://github.com/datawhalechina/easy-rl)
 
+[动手学强化学习](https://hrl.boyuai.com/)
+
 > **Note**:<br>
 > Policy Gradient, PPO
